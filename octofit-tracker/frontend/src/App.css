@@ -1,0 +1,32 @@
+.app-shell {
+  min-height: 100vh;
+  background: linear-gradient(180deg, #f8f9ff 0%, #eef5ff 100%);
+}
+
+.navbar {
+  box-shadow: 0 4px 20px rgba(13, 110, 253, 0.12);
+}
+
+.nav-link {
+  text-decoration: none;
+  transition: all 0.2s ease-in-out;
+}
+
+.nav-link:hover {
+  background: rgba(255, 255, 255, 0.1);
+}
+
+.card {
+  border-radius: 1rem;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  letter-spacing: -0.02em;
+}
+
+.alert {
+  border-radius: 0.9rem;
+}
